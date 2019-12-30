@@ -1,0 +1,16 @@
+#To filter out doxygen files
+
+*.js
+*.html
+*.css
+*.png
+*.bat
+*.tex
+*.eps
+
+#To filter out compiled files 
+/build-uno/*
+
+#To filter out the makefile 
+*.mk
+Makefile
